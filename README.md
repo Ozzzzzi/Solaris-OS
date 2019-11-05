@@ -1,4 +1,4 @@
 # Solaris-OS
-Tasks for Computer Science OS course
-Yana Tromenshleger
-group 18213
+Tasks for Computer Science OS course\n
+Yana Tromenshleger\n
+group 18213\n
